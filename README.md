@@ -3,9 +3,9 @@
 - The data processing is the same as [BiDAF's code from MSRA](https://github.com/Microsoft/CNTK/tree/nikosk/bidaf/Examples/Text/BidirectionalAttentionFlow/msmarco/team_xyz/script)
 - The part of ploymath's output still has some bugs, because of the material of CNTK is finite. But you can temporary use BiDAF's output-layer.
 
-#Requirements
+# Requirements
 - Python >= 3.5
 - cntk >= 2.5.1
 
-#Usage
+# Usage
 This is similar to [BiDAF's code from MSRA](https://github.com/Microsoft/CNTK/tree/nikosk/bidaf/Examples/Text/BidirectionalAttentionFlow/msmarco/team_xyz/script)
