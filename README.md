@@ -1,2 +1,2 @@
-# R-Net-in-CNTK-MS-MARCO-
+# R-Net-in-CNTK(MS-MARCO)
 CNTK Implementation of R-Net
